@@ -1,9 +1,9 @@
 # Heading
 ## Heading 2
 ### Heading 3
-*I*
-**B**
-***BI***
+*I*  
+**B**  
+***BI***  
 ```sh
 sudo su
 ```
